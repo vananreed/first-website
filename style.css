@@ -20,12 +20,12 @@ h1, h2 {
 	border-radius: 20px;
 }
 
-.card img{
+.third{
 	width: 32%;
 	border-radius: 10px;
 }
 
-#half, #half2 {
+.half {
 	width: 49%;
 	border-radius: 10px;
 
