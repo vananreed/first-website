@@ -35,14 +35,15 @@ h1, h2 {
 }
 
 .quote {
-	width: 20%;
+	
 	flex: none;
 	align-self: auto;
 
 }
 
 .testimonials {
-	display: flex;
+	display: block;
+	margin: auto;
 	height: auto;
 	justify-content: space-around;
 	flex-wrap: wrap;
