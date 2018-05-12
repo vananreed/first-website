@@ -10,6 +10,9 @@ h1, h2 {
 	background-color: #F6BED4;
 
 }
+.banner {
+
+}
 
 .banner img {
     
@@ -20,7 +23,7 @@ h1, h2 {
 	border-radius: 20px;
 }
 
-.third{
+.third {
 	width: 32%;
 	border-radius: 10px;
 }
@@ -29,4 +32,45 @@ h1, h2 {
 	width: 49%;
 	border-radius: 10px;
 
+}
+
+.quote {
+	width: 20%;
+	flex: none;
+	align-self: auto;
+
+}
+
+.testimonials {
+	display: flex;
+	height: auto;
+	justify-content: space-around;
+
+}
+
+.footer img {
+	width: 50%;
+	display: block;
+	margin: auto;
+	border-radius: 15px;
+}
+
+.reed {
+	font-family: 'Pangolin', cursive;
+}
+
+.drew {
+	font-family: 'Indie Flower', cursive;
+}
+
+.cole {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.layne {
+	font-family: 'Gamja Flower', cursive;
+}
+
+#ma {
+	font-family: 'Josefin Sans', sans-serif;
 }
